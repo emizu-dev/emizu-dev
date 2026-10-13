@@ -11,7 +11,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center">
-  Sou de <b>Pernambuco, Brasil</b>, e estudo <b>JavaScript</b> e <b>UX Design</b> na Origamid.<br>
+  Sou de <b>Pernambuco, Brasil</b>, e estudo <b>HTML, CSS, JavaScript</b> e <b>UX Design</b> na Origamid.<br>
   Vim da área de <b>qualidade e atendimento</b>, e trago esse olhar para os detalhes para o código.<br>
   Busco minha primeira oportunidade como <b>Desenvolvedora Front-end Júnior</b>.
 </p>
